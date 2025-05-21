@@ -38,7 +38,7 @@ const CarStatistics = () => {
         <Typography variant="h3">
           Car{' '}
           <Box component="span" sx={{ fontWeight: 'fontWeightRegular' }}>
-            Statisticcs
+            Statisticcss
           </Box>
         </Typography>
 
