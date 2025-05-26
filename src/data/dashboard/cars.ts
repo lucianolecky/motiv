@@ -27,7 +27,7 @@ export const cars: ICar[] = [
   },
   {
     id: 3,
-    type: 'Picapes',
+    type : 'Picapes',
     imageUrl: carImages[3],
     modelName: 'Hilux',
     mileage: 130,
